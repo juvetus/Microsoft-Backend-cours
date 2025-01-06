@@ -1,0 +1,17 @@
+E:\Microsoft-Full-Stack-Developer\CsharpBasics\EcommerceProjet\bin\Debug\net9.0\EcommerceProjet.exe
+E:\Microsoft-Full-Stack-Developer\CsharpBasics\EcommerceProjet\bin\Debug\net9.0\EcommerceProjet.deps.json
+E:\Microsoft-Full-Stack-Developer\CsharpBasics\EcommerceProjet\bin\Debug\net9.0\EcommerceProjet.runtimeconfig.json
+E:\Microsoft-Full-Stack-Developer\CsharpBasics\EcommerceProjet\bin\Debug\net9.0\EcommerceProjet.dll
+E:\Microsoft-Full-Stack-Developer\CsharpBasics\EcommerceProjet\bin\Debug\net9.0\EcommerceProjet.pdb
+E:\Microsoft-Full-Stack-Developer\CsharpBasics\EcommerceProjet\obj\Debug\net9.0\EcommerceProjet.GeneratedMSBuildEditorConfig.editorconfig
+E:\Microsoft-Full-Stack-Developer\CsharpBasics\EcommerceProjet\obj\Debug\net9.0\EcommerceProjet.AssemblyInfoInputs.cache
+E:\Microsoft-Full-Stack-Developer\CsharpBasics\EcommerceProjet\obj\Debug\net9.0\EcommerceProjet.AssemblyInfo.cs
+E:\Microsoft-Full-Stack-Developer\CsharpBasics\EcommerceProjet\obj\Debug\net9.0\EcommerceProjet.csproj.CoreCompileInputs.cache
+E:\Microsoft-Full-Stack-Developer\CsharpBasics\EcommerceProjet\obj\Debug\net9.0\EcommerceProjet.dll
+E:\Microsoft-Full-Stack-Developer\CsharpBasics\EcommerceProjet\obj\Debug\net9.0\refint\EcommerceProjet.dll
+E:\Microsoft-Full-Stack-Developer\CsharpBasics\EcommerceProjet\obj\Debug\net9.0\EcommerceProjet.pdb
+E:\Microsoft-Full-Stack-Developer\CsharpBasics\EcommerceProjet\obj\Debug\net9.0\EcommerceProjet.genruntimeconfig.cache
+E:\Microsoft-Full-Stack-Developer\CsharpBasics\EcommerceProjet\obj\Debug\net9.0\ref\EcommerceProjet.dll
+E:\Microsoft-Full-Stack-Developer\CsharpBasics\EcommerceProjet\bin\Debug\net9.0\Newtonsoft.Json.dll
+E:\Microsoft-Full-Stack-Developer\CsharpBasics\EcommerceProjet\obj\Debug\net9.0\EcommerceProjet.csproj.AssemblyReference.cache
+E:\Microsoft-Full-Stack-Developer\CsharpBasics\EcommerceProjet\obj\Debug\net9.0\Ecommerc.994F872C.Up2Date
